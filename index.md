@@ -28,15 +28,10 @@ Prestashop behind tor on docker.
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whitecryptoknight/whitecryptoknight.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages?  
+Having trouble with Code?  
 
 Email:  
 Jabber:  
