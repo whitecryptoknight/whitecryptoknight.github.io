@@ -12,12 +12,6 @@ Projects
 # WordTor  
 Wordpress behind Tor on docker
 
-## DockTor  
-Lemp stack behind tor on docker
-
-### PrestaTor  
-Prestashop behind tor on docker.
-
 - Secure
 - Simple
 - Effective
@@ -27,6 +21,7 @@ Prestashop behind tor on docker.
 **Tor on docker containers prevents any leakage of ip info**  
 
 ```
+# CannaCollective
 
 
 ### Support or Contact
